@@ -1,4 +1,4 @@
-package abel.springframework.sfgdi.services;
+package abel.services;
 
 public interface GreetingService {
     String sayGreeting();

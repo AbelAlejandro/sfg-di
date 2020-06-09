@@ -1,4 +1,4 @@
-package abel.springframework.sfgdi.services;
+package abel.services;
 
 import org.springframework.stereotype.Service;
 

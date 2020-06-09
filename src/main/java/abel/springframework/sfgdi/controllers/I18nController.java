@@ -1,6 +1,6 @@
 package abel.springframework.sfgdi.controllers;
 
-import abel.springframework.sfgdi.services.GreetingService;
+import abel.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 

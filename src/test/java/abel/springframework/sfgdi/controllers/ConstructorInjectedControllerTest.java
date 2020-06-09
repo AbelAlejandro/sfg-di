@@ -1,6 +1,6 @@
 package abel.springframework.sfgdi.controllers;
 
-import abel.springframework.sfgdi.services.ConstructorInjectedGreetingService;
+import abel.services.ConstructorInjectedGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
